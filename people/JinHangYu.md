@@ -15,7 +15,8 @@ title: JinHang Yu
 
 ### Contact Info
 Lab : Room 1207, New Engineering Building
-email: 
+email: jhy727498@163.com
+email: starloving@konkuk.ac.kr
 
 ### Related Links
-
+* [My Github](https://github.com/starloving)
