@@ -15,7 +15,7 @@ title: JinHang Yu
 
 ### Contact Info
 Lab : Room 1207, New Engineering Building
-email: 
+email: jhy727498@163.com
 
 ### Related Links
 
